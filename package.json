@@ -16,8 +16,15 @@
   "bugs": {
     "url": "https://github.com/hrdowell/11-Note-Taker/issues"
   },
+
   "homepage": "https://github.com/hrdowell/11-Note-Taker#readme",
+
+  "engines": {
+    "node": "14.x"
+  },
+
   "dependencies": {
+    "ejs": "^3.1.5",
     "express": "^4.17.1"
   }
 }
